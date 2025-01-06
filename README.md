@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Alaa - Front End developer
 
-💡  I like to explore new trends and learn new technologies.<br>🌱  I'm on track for learning more about [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [NextJS](https://nextjs.org/).<br>🚧  I'm currently working on two new secret projects after [Blog](https://github.com/Alaa-Ahmed92/omar-blog) and [FlexPost](https://github.com/Alaa-Ahmed92/flex-post) ... 👀.<br>💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+💡  I like to explore new trends and learn new technologies.<br>🌱  I'm on track to learn more about [React Native](https://reactnative.dev/) and [NextJS](https://nextjs.org/).<br>🚧  I'm currently working on two new secret projects after [Blog](https://github.com/Alaa-Ahmed92/omar-blog) and [FlexPost](https://github.com/Alaa-Ahmed92/flex-post) ... 👀.<br>💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 
 
 ## 🌐 Socials:
